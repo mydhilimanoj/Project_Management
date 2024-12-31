@@ -2,7 +2,7 @@
 Project Management API
 
 # Description
-This is a Django-based API for managing projects, including functionality to create, update, delete, and retrieve project data.
+This project is a Django-based API for managing project-related data. It includes features like user management and CRUD operations for projects, tasks, and more.
 
 # Features
 - Create, retrieve, update, and delete projects.
@@ -35,6 +35,9 @@ source .venv/bin/activate'
 
 6) Run the development server
 'python manage.py runserver'
+
+7) Access the application in your browser at:
+- http://127.0.0.1:8000
 
 # API Documentation
 The API documentation is generated using Swagger. It provides a user-friendly interface to explore and test the API endpoints
